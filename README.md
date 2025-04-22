@@ -14,6 +14,7 @@ A real-time, peer-to-peer video and voice chat application built with WebRTC, No
 ```bash
 npm install
 ```
+Then Run:
 ```bash
 npm start
 ```
