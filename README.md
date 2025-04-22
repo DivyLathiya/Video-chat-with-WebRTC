@@ -5,7 +5,7 @@
 
 A real-time, peer-to-peer video and voice chat application built with WebRTC, Node.js, Socket.IO, and Express. This project allows users to set usernames, select specific users to call, and engage in video calls with an interactive, modern user interface. Features include audio/video mute controls, dynamic call status updates, and a responsive design.
 
-## How-To-Use:
+## How To Use:
 1. Make a folder named 'public' in project directory.
 2. Move `index.html` in 'public' folder.
 3. Move `server.js` and `package.json` file in project directory.
