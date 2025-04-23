@@ -30,6 +30,10 @@ npm start
 
 If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the GitHub repository. Your feedback and contributions are highly appreciated!
 
+## Demo
+
+For a live demonstration of video chat web application, you can visit the following link: [Demo](https://www.dplathiya.me/)
+
 ## About the Author
 
 This Video Chat web application is developed by [Divy Lathiya](https://github.com/DivyLathiya).
