@@ -36,6 +36,6 @@ For a live demonstration of video chat web application, you can visit the follow
 
 ## About the Author
 
-This Video Chat web application is developed by [Divy Lathiya](https://github.com/DivyLathiya).
+This Video Chat web application is developed by [Divy Lathiya](https://github.com/DivyLathiya) and [Jash Ambaliya](https://github.com/aj0070).
 
 Thank you for checking out this project! If you find it helpful, don't forget to give it a star and share it with others.
